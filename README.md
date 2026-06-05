@@ -55,6 +55,8 @@ En él se presentan indicadores clave y visualizaciones ejecutivas como:
 
 Este dashboard complementa el análisis realizado en el notebook y facilita la exploración visual de los resultados.
 
+<img width="1292" height="727" alt="image" src="https://github.com/user-attachments/assets/5a11070a-4dbb-481a-8234-a27aa5fad701" />
+
 <img width="1296" height="723" alt="image" src="https://github.com/user-attachments/assets/5220733b-cce4-45c4-9b7a-261bd3fbf42d" />
 
 
