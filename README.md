@@ -22,6 +22,41 @@ Todos los datos utilizados son artificiales y fueron creados exclusivamente con 
 
 ---
 
+## 📂 Cómo Explorar este Proyecto
+
+Este repositorio está organizado alrededor de dos archivos principales que permiten comprender tanto el análisis técnico como la visualización de resultados.
+
+### 📓 Red_movil.ipynb
+
+El archivo **Red_movil.ipynb** contiene el desarrollo completo del proyecto y cuenta la historia de principio a fin. En este notebook se documentan todas las etapas del análisis:
+
+* Generación de datos sintéticos de telecomunicaciones.
+* Simulación de tráfico de red móvil.
+* Limpieza y transformación de datos.
+* Análisis exploratorio de datos (EDA).
+* Cálculo de KPIs de telecomunicaciones.
+* Identificación de patrones y hallazgos relevantes.
+* Visualizaciones y conclusiones.
+
+Se recomienda comenzar por este archivo para comprender la metodología y los resultados obtenidos.
+
+### 📊 Tel_Movil.pbix
+
+El archivo **Tel_Movil.pbix** contiene el dashboard interactivo desarrollado en Power BI a partir de los datos procesados en Python.
+
+En él se presentan indicadores clave y visualizaciones ejecutivas como:
+
+* KPIs de calidad de red.
+* Comparación entre tecnologías 3G, 4G y 5G.
+* Tráfico por ciudad.
+* Tendencias temporales de llamadas.
+* Análisis de congestión.
+* Desempeño de estaciones base.
+
+Este dashboard complementa el análisis realizado en el notebook y facilita la exploración visual de los resultados.
+
+---
+
 ## 🛠️ Tecnologías Utilizadas
 
 * Python
@@ -66,11 +101,13 @@ El proyecto incorpora métricas y eventos comúnmente utilizados en la industria
 
 ## 📈 Dashboard en Power BI
 
-El proyecto incluye un dashboard interactivo desarrollado en Power BI para visualizar:
+El dashboard desarrollado en Power BI permite visualizar de forma interactiva el comportamiento de la red móvil simulada, facilitando la toma de decisiones mediante indicadores clave y análisis visuales.
+
+Entre los principales elementos incluidos se encuentran:
 
 * KPIs de calidad de red.
 * Tráfico por ciudad.
-* Distribución geográfica de usuarios.
+* Distribución geográfica del tráfico.
 * Comparación entre tecnologías 3G, 4G y 5G.
 * Tendencias temporales de llamadas.
 * Indicadores de desempeño de estaciones base.
@@ -90,6 +127,8 @@ Este proyecto evidencia competencias en:
 * Business Intelligence.
 * Storytelling con datos.
 * Desarrollo de dashboards ejecutivos.
+* Python para análisis de datos.
+* Power BI.
 
 ---
 
@@ -101,6 +140,6 @@ La información utilizada en este proyecto es completamente sintética y fue gen
 
 ## 👨‍💻 Autor
 
-Fabian Medina
+**Fabian Medina**
 
 Ingeniero de Telecomunicaciones con experiencia en gestión de proyectos, análisis de datos y mejora de procesos. Este proyecto forma parte de mi portafolio profesional enfocado en Data Analytics, Business Intelligence y Telecomunicaciones.
